@@ -37,6 +37,7 @@ body {
     width: 80%;
     margin: auto;
     display: flex;
+    justify-content: space-around;
 }
 
 .header .container{
@@ -91,7 +92,7 @@ body {
 }
 
 .social .container .box p {
-    width: 400px;
+    width: 300px;
 
 }
 
